@@ -40,6 +40,6 @@ University of Glasgow, Adam Smith Business School.
 5. Run the full script
 
 ## Author
-Student ID: 2763329
+Siwei Ma
 Supervisor: Professor Christian Ewald
 University of Glasgow, Adam Smith Business School
