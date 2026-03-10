@@ -31,7 +31,7 @@ University of Glasgow, Adam Smith Business School.
 
 ## How to Run
 1. Download both files and save them in the same folder
-2. Open `dissertation_analysis.R` in R or RStudio
+2. Open `dissertation_analysis.R` in RStudio
 3. Update the `file_path` variable at the top of the script
    to point to the location of `swap_rates.xlsx`, e.g.:
    file_path <- "C:/your/folder/swap_rates.xlsx"
