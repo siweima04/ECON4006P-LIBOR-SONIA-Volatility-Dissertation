@@ -40,6 +40,6 @@ University of Glasgow, Adam Smith Business School.
 5. Run the full script
 
 ## Author
-Siwei Ma
-Supervisor: Professor Christian Ewald
+Siwei Ma,
+Supervisor: Professor Christian Ewald,
 University of Glasgow, Adam Smith Business School
